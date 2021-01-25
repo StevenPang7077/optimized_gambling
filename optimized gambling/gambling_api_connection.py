@@ -2,7 +2,7 @@ import json
 import requests
 
 # An api key is emailed to you when you sign up to a plan
-api_key = 'ea000872e35c4034fee1ae19399b1cc0'
+api_key = ''#removed. :( You can register for a free one at their website(the odds api)
 
 #First get a list of in-season sports
 def get_response():
